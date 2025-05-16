@@ -28,7 +28,7 @@ Total Harga (format rupiah)
 
 2. ![Halaman Struk Pemesanan](image/formPesan.png)
 
-3. ![Struk Pemesanan](image/Struk.png)
+3. ![Struk Pemesanan](image/struk.png)
 
 ▶️ Cara Menjalankan Aplikasi
 1. Git Clone Project ini
