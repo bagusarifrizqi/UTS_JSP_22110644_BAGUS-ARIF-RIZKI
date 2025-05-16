@@ -1,10 +1,10 @@
-#🎬 Aplikasi Pemesanan Tiket Bioskop (JSP)
-##📌 Deskripsi Project
+# 🎬 Aplikasi Pemesanan Tiket Bioskop (JSP)
+## 📌 Deskripsi Project
 Aplikasi ini merupakan proyek UTS berbasis JSP (Java Server Pages) yang memungkinkan pengguna untuk melakukan pemesanan tiket bioskop secara online.
 
 ---
 
-##Fitur utama:
+## Fitur utama:
 
 Menampilkan daftar film dan jam tayang dari ArrayList
 
@@ -16,7 +16,7 @@ Tampilan responsif dan elegan dengan Bootstrap dan animasi modern
 
 ---
 
-##🧾 Fitur Output yang Ditampilkan
+## 🧾 Fitur Output yang Ditampilkan
 Nama Pemesan
 
 Film yang Dipilih
@@ -29,7 +29,7 @@ Total Harga (format rupiah)
 
 ---
 
-##🖼 Screenshot hasil output
+## 🖼 Screenshot hasil output
 🖼 index
  ![Halaman Form Pemesanan](image/index.png)
 🖼 Screenshot Form pemesanan
@@ -39,7 +39,7 @@ Total Harga (format rupiah)
 
 ---
 
-##▶️ Cara Menjalankan Aplikasi
+## ▶️ Cara Menjalankan Aplikasi
 1. Git Clone Project ini
 2. Aktifkan Xampp Apache dan Tomcat
 3. Buka Project
