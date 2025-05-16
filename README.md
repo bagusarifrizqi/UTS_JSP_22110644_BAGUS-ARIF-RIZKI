@@ -24,11 +24,11 @@ Jumlah Tiket
 Total Harga (format rupiah)
 
 🖼 Screenshot Output
-1. Halaman Form Pemesanan(image/index.png)
+1. ![Halaman Form Pemesanan](image/index.png)
 
-2. Halaman Struk Pemesanan(image/formPesan.png
+2. ![Halaman Struk Pemesanan](image/formPesan.png)
 
-3. Struk Pemesanan(image/Struk.png)
+3. ![Struk Pemesanan](image/Struk.png)
 
 ▶️ Cara Menjalankan Aplikasi
 1. Git Clone Project ini
